@@ -1,0 +1,21 @@
+{
+  "name": "font-awesome-math",
+  "homepage": "https://github.com/betofloresbaca/font-awesome-math",
+  "authors": [
+    "Luis Alberto Flores Baca <betofloresbaca@gmail.com>"
+  ],
+  "description": "Font Awesome Math Symbols.",
+  "main": "",
+  "keywords": [
+    "fontawesome",
+    "math"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
